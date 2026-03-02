@@ -1,4 +1,10 @@
 .DS_Store
+venv/
 Data Set /
 __pycache__/
 *.pyc
+saved_models/
+logs/
+results/
+*.h5
+*.keras
